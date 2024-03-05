@@ -1,0 +1,15 @@
+[{
+    "name": "Naruto",
+    "age": 37,
+    "isEmployed": true
+},
+{
+    "name": "Sasuke",
+    "age": 37,
+    "isEmployed": true
+},
+{
+    "name": "Kakashi",
+    "age": 47,
+    "isEmployed": true
+}]
